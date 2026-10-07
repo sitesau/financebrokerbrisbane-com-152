@@ -1,0 +1,19 @@
+{
+  "wheel_id": 348,
+  "structure": "umbrella",
+  "slug": "financebrokerbrisbane-com-152",
+  "project": "home-loan-brokers-brisbane-9fef84416ea009301589d50885bef905d7bd",
+  "parent_t1_ref": "financebrokerbrisbane.com-009",
+  "node_role": "buffer",
+  "money_target": "financebrokerbrisbane.com.au",
+  "primary_kw": "home loan brokers brisbane",
+  "intended_url": "https://sitesau.github.io/financebrokerbrisbane-com-152/",
+  "writeback_nonce": "17e5feab634d1bd7",
+  "links": [
+    {
+      "target_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/home-loan-brokers-brisbane-financebrokerbrisbane-com-009/",
+      "anchor": "home loan brokers brisbane",
+      "rel": "follow"
+    }
+  ]
+}
